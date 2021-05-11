@@ -1,5 +1,5 @@
 # README
-demo2例程。
+node例程
 ```bash
 # 安装依赖
 npm install
